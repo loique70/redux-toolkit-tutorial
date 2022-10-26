@@ -32,7 +32,7 @@ function App() {
   <main>
     {isOpen && <Modal/>}
    <Navbar/>
-   <CartContainer/>
+   <CartContainer/> 
   </main>
   )
 }
